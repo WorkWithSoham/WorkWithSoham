@@ -54,6 +54,8 @@
 &nbsp;&nbsp;&nbsp;
 <img alt="Python" height="43px" width="43px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 &nbsp;&nbsp;&nbsp;
+<img alt="Djnago" height="43px" width="43px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+&nbsp;&nbsp;&nbsp;  
 <img alt="React" height="40px" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 &nbsp;&nbsp;&nbsp;
 <img alt="Angular" height="40px" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
