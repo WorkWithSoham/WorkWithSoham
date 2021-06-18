@@ -72,7 +72,7 @@
 
 <hr>
 
-<summary align="center">GitHub Stats</summary>
+<h3 align="center">GitHub Stats</h3>
 <br>
 
 <div align="center">
