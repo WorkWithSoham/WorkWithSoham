@@ -14,13 +14,12 @@
 
 <hr>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;🎓 EnTC Engineer with a knack for programming <br>
-- &nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning to code better... 😂 <br>
+- &nbsp;&nbsp;&nbsp;&nbsp;🎓 MSCS Grad at University of Texas at Arlington <br>
+- &nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning to code better... <br>
 - &nbsp;&nbsp;&nbsp;&nbsp;💙 Python is my first programming love language <br>
-- &nbsp;&nbsp;&nbsp;&nbsp;💻 I'm also a Full Stack Web Developer with a good command over Django (...because python obvio, duh!) and Angular <br>
+- &nbsp;&nbsp;&nbsp;&nbsp;💻 I'm also a Full Stack Web Developer with a good command over Django and Angular <br>
 - &nbsp;&nbsp;&nbsp;&nbsp;💯 I enjoy solving competitive programming problems<br>
-- &nbsp;&nbsp;&nbsp;&nbsp;🤖 I definitely like to get involved in Machine Learning related projects <br>
-- &nbsp;&nbsp;&nbsp;&nbsp;🥅 Current Personal Goals: Be able to contribute (a little, may be) to Open Source projects <br>
+- &nbsp;&nbsp;&nbsp;&nbsp;🥅 Current Personal Goals: Contribute to Open Source projects <br>
 
 
 <br>
